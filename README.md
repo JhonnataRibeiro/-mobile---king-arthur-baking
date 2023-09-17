@@ -1,1 +1,5 @@
-# -mobile---king-arthur-baking
+# [Mobile] King Arthur Baking
+
+GitHub Pages: 
+
+Site: https://www.kingarthurbaking.com/
