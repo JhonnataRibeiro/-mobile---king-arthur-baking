@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --vermelho: #DA1A32;
+    --preto: #000000;
+    --branco: #FFFFFF;
+    --vermelho-escuro: #BE0023;
+    --verde-escuro: #3E4C31;
+    --amarelo-escuro: #FFAC0C;
+    --cinza: #545151;
+
+    --libre-baskerville: 'Libre Baskerville', serif;
+    --josefin-slab: 'Josefin Slab', serif;
+}
+
+body {
+
+}
