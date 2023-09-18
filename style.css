@@ -21,6 +21,60 @@
     --josefin-slab: 'Josefin Slab', serif;
 }
 
-body {
+/* body {
 
+} */
+
+header {
+    /* border: 1px solid green; */
+    width: 100%;
+    background-color: var(--vermelho);
+    padding: 15px;
+    text-align: center;
+}
+
+a.font-link {
+    font-family: var(--josefin-slab);
+    font-size: 16px;
+    color: var(--branco);
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: none;
+    transition: 300ms;
+}
+
+a.font-link:hover {
+    color: var(--preto);
+}
+
+nav {
+    border: 1px solid blue;
+    display: flex;
+}
+
+.logo-site {
+    border: 1px solid green;
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-site > a > img {
+    width: 70%;
+}
+
+.nav-bar {
+    border: 1px solid red;
+    width: 60%;
+}
+
+.btn-menu {
+    border: 1px solid yellow;
+    width: 20%;
+}
+
+span {
+    color: red;
 }
